@@ -4,4 +4,4 @@ This is a silly little script I wrote to automatically update my NameCheap dynam
 
 It should be able to handle some errors, there's a grep to get the IP address only, as well as a check to make sure it's between the character range.  Not much else though, its literally an 11 line shell script, lmao.
 
-Just edit the enviornment variables in the script and throw it in your crontab.
+Just edit the `DOMAIN` and `PASSWORD enviornment variables in the script and throw it in your crontab.
